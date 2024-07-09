@@ -1,8 +1,7 @@
 #
-# 반갑다
+# Hi, i`m Hyundo Kim
 
 
-># **Hello World!**
 
 
 <!--
